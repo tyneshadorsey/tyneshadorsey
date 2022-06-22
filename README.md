@@ -14,6 +14,7 @@ email = [ 'hello', 'at', 'tyneshadorsey.com' ]
 
 [professional]
 currently-employed = true
+actively-seeking-opportunities = true
 current-employer = 'Lockheed Martin Aeronautics'
 job-title = 'Software Engineer I (full-stack)'
 preferred-titles = ['Cyber Security Analyst', 'Security Engineer', 
