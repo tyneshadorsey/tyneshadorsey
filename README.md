@@ -19,8 +19,7 @@ current-employer = 'Lockheed Martin Aeronautics'
 job-title = 'Software Engineer I (full-stack)'
 preferred-titles = ['Cyber Security Analyst', 'Security Engineer', 
           'Cyber Threat Investigator', 'Jr. Penetration Tester',
-          'Cyber Incident Response Engineer', 
-                'Senior Software Engineer']
+          'Cyber Incident Response Engineer','Senior Software Engineer']
 preferred-workplaces = ['Remote' , 'Hybrid', 'On-site']
 preferred-onsite-locations = ['Baltimore', 'Dallas', 'Houston', 'DC', 'Atlanta']
 
