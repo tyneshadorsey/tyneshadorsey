@@ -15,7 +15,7 @@ email = [ 'hello', 'at', 'tyneshadorsey.com' ]
 [professional]
 currently-employed = true
 current-employer = 'Verizon'
-job-title = 'Sr. Security Engineer IV (Data Protection)'
+job-title = 'Sr. Security Engineer'
 
 [bio]
 interests = [
